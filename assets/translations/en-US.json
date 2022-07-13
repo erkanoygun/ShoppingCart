@@ -1,0 +1,12 @@
+{
+    "tabbarTitle" : "Home Page",
+    "isEmptyList" : "Create Shopping Cart to Buy.",
+    "notFoundItem" : "The product you were looking for was not found.",
+    "addItemList" : "Add List",
+    "bottomBarTab1" : "List",
+    "bottomBarTab2" : "Add",
+    "dropDownMenuItem1" : "Piece",
+    "dropDownMenuItem2" : "Kilogram",
+    "dropDownMenuItem3" : "Liter",
+    "dropDownMenuItem4" : "Other"
+}

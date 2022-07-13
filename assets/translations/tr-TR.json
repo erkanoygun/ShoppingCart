@@ -1,0 +1,12 @@
+{
+    "tabbarTitle" : "Ana Sayfa",
+    "isEmptyList" : "Satın Almak İçin Alışveriş Sepeti Oluştur.",
+    "notFoundItem" : "Aradığınız ürün bulunamadı.",
+    "addItemList" : "Listeye Ekle",
+    "bottomBarTab1" : "Liste",
+    "bottomBarTab2" : "Ekle",
+    "dropDownMenuItem1" : "Adet",
+    "dropDownMenuItem2" : "Kilogram",
+    "dropDownMenuItem3" : "Litre",
+    "dropDownMenuItem4" : "Diğer"
+}
